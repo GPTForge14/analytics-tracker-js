@@ -1,3 +1,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0378. 🐛 fix: prevent crash on empty input
 0132. ✅ test: add unit test for quiz service
+0365. 🚀 perf: reduce image load time
