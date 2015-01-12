@@ -4,3 +4,4 @@
 0365. 🚀 perf: reduce image load time
 0986. 📚 docs: document token refresh logic
 0202. 🔧 refactor: refactor quiz grading logic
+0147. ♻️ chore: bump dependencies
