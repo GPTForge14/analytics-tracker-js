@@ -8,3 +8,4 @@
 0055. 📚 docs: update README with setup steps
 0780. 📚 docs: add API usage examples
 0474. ✅ test: add unit test for quiz service
+0218. 🔧 refactor: clean up auth middleware
