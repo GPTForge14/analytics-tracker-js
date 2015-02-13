@@ -10,3 +10,4 @@
 0474. ✅ test: add unit test for quiz service
 0218. 🔧 refactor: clean up auth middleware
 0585. 🚀 perf: lazy-load components
+0743. 🎨 style: apply consistent indentation
