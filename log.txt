@@ -12,3 +12,4 @@
 0585. 🚀 perf: lazy-load components
 0743. 🎨 style: apply consistent indentation
 0299. 🐛 fix: resolve issue with date parsing
+0970. ♻️ chore: update .gitignore
