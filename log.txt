@@ -14,3 +14,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0970. ♻️ chore: update .gitignore
 0664. ✅ test: add unit test for quiz service
+0801. ✨ feat: enable dark mode toggle
