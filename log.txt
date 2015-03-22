@@ -20,3 +20,4 @@
 0215. 🎨 style: reformat files with black
 0604. 📚 docs: add API usage examples
 0222. 🐛 fix: handle 500 error in quiz API
+0500. ✅ test: add integration test for /submit endpoint
