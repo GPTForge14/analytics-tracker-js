@@ -26,3 +26,4 @@
 0621. 🔧 refactor: clean up auth middleware
 0782. 📚 docs: improve code comments in utils
 0891. ✨ feat: create admin dashboard
+0338. ♻️ chore: add GitHub actions badge
