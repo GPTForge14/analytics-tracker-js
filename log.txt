@@ -27,3 +27,4 @@
 0782. 📚 docs: improve code comments in utils
 0891. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
+0102. ✨ feat: support email verification
