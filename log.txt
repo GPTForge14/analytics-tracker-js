@@ -28,3 +28,4 @@
 0891. ✨ feat: create admin dashboard
 0338. ♻️ chore: add GitHub actions badge
 0102. ✨ feat: support email verification
+0342. 🚀 perf: cache repeated calculations
