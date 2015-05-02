@@ -30,3 +30,4 @@
 0102. ✨ feat: support email verification
 0342. 🚀 perf: cache repeated calculations
 0214. 📚 docs: improve code comments in utils
+0704. 🚀 perf: cache repeated calculations
