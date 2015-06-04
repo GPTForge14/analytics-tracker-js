@@ -36,3 +36,4 @@
 0374. 🎨 style: standardize quote style
 0761. ✅ test: add unit test for quiz service
 0359. 🔧 refactor: clean up auth middleware
+0592. 📚 docs: add API usage examples
