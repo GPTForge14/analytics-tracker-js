@@ -38,3 +38,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0592. 📚 docs: add API usage examples
 0221. ✨ feat: add user authentication
+0628. ♻️ chore: add GitHub actions badge
