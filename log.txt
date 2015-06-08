@@ -40,3 +40,4 @@
 0221. ✨ feat: add user authentication
 0628. ♻️ chore: add GitHub actions badge
 0933. 📚 docs: clarify environment setup
+0798. 🚀 perf: reduce image load time
