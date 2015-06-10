@@ -41,3 +41,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0933. 📚 docs: clarify environment setup
 0798. 🚀 perf: reduce image load time
+0111. 📚 docs: update README with setup steps
