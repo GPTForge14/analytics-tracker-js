@@ -42,3 +42,4 @@
 0933. 📚 docs: clarify environment setup
 0798. 🚀 perf: reduce image load time
 0111. 📚 docs: update README with setup steps
+0291. 📚 docs: write FAQ section
