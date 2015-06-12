@@ -44,3 +44,4 @@
 0111. 📚 docs: update README with setup steps
 0291. 📚 docs: write FAQ section
 0245. 🐛 fix: resolve issue with date parsing
+0174. 📚 docs: clarify environment setup
