@@ -52,3 +52,4 @@
 0217. 🚀 perf: reduce image load time
 0088. 📚 docs: add API usage examples
 0929. ✨ feat: support email verification
+0256. ✅ test: mock database connection in test suite
