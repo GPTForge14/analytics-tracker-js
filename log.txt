@@ -54,3 +54,4 @@
 0929. ✨ feat: support email verification
 0256. ✅ test: mock database connection in test suite
 0316. 🐛 fix: fix broken CSS in mobile view
+0758. 🚀 perf: optimize database query for quiz results
