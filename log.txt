@@ -67,3 +67,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 1000. ✅ test: increase coverage on auth module
 0953. 🎨 style: remove trailing whitespace
+0523. ♻️ chore: bump dependencies
