@@ -80,3 +80,4 @@
 0655. 🚀 perf: cache repeated calculations
 0584. 🚀 perf: lazy-load components
 0395. 📚 docs: write FAQ section
+0204. 🎨 style: standardize quote style
