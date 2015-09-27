@@ -81,3 +81,4 @@
 0584. 🚀 perf: lazy-load components
 0395. 📚 docs: write FAQ section
 0204. 🎨 style: standardize quote style
+0197. 📚 docs: update README with setup steps
