@@ -82,3 +82,4 @@
 0395. 📚 docs: write FAQ section
 0204. 🎨 style: standardize quote style
 0197. 📚 docs: update README with setup steps
+0162. ♻️ chore: add GitHub actions badge
