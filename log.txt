@@ -84,3 +84,4 @@
 0197. 📚 docs: update README with setup steps
 0162. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
+0938. 🎨 style: rename variables for clarity
