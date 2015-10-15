@@ -85,3 +85,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
 0938. 🎨 style: rename variables for clarity
+0319. 🐛 fix: handle 500 error in quiz API
