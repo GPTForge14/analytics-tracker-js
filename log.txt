@@ -90,3 +90,4 @@
 0563. 📚 docs: clarify environment setup
 0232. 🎨 style: apply consistent indentation
 0079. 🐛 fix: correct typo in registration form
+0756. ✨ feat: support email verification
