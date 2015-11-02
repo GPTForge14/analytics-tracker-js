@@ -93,3 +93,4 @@
 0756. ✨ feat: support email verification
 0233. 🚀 perf: lazy-load components
 0240. 🔧 refactor: remove redundant code blocks
+0932. ✅ test: add integration test for /submit endpoint
