@@ -97,3 +97,4 @@
 0184. 📚 docs: improve code comments in utils
 0998. 🐛 fix: fix null pointer exception on login
 0922. 📚 docs: write FAQ section
+0940. 📚 docs: document token refresh logic
