@@ -104,3 +104,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0906. 📚 docs: add API usage examples
 0833. ✨ feat: add user authentication
+0601. ✨ feat: implement quiz timer feature
