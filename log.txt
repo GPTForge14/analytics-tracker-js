@@ -109,3 +109,4 @@
 0725. 🚀 perf: lazy-load components
 0285. 🐛 fix: resolve issue with date parsing
 0494. 🎨 style: rename variables for clarity
+0618. ✨ feat: support email verification
