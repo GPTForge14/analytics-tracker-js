@@ -112,3 +112,4 @@
 0618. ✨ feat: support email verification
 0480. ♻️ chore: add GitHub actions badge
 0741. 🎨 style: apply consistent indentation
+0255. 🔧 refactor: refactor quiz grading logic
