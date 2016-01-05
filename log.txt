@@ -114,3 +114,4 @@
 0741. 🎨 style: apply consistent indentation
 0255. 🔧 refactor: refactor quiz grading logic
 0990. ♻️ chore: rename env.example
+0348. ✅ test: test user registration edge cases
