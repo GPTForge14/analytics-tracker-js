@@ -117,3 +117,4 @@
 0348. ✅ test: test user registration edge cases
 0029. 🚀 perf: lazy-load components
 0746. ♻️ chore: add GitHub actions badge
+0400. 🐛 fix: fix null pointer exception on login
