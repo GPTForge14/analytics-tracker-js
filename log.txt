@@ -125,3 +125,4 @@
 0844. 📚 docs: update README with setup steps
 0911. ✅ test: increase coverage on auth module
 0820. 📚 docs: add API usage examples
+0831. 📚 docs: clarify environment setup
