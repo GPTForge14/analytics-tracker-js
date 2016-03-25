@@ -129,3 +129,4 @@
 0009. ✨ feat: enable dark mode toggle
 0832. 🔧 refactor: remove redundant code blocks
 0799. ♻️ chore: clean up unused files
+0437. 📚 docs: clarify environment setup
