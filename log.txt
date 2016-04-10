@@ -134,3 +134,4 @@
 0803. ✅ test: mock database connection in test suite
 0729. 🔧 refactor: refactor quiz grading logic
 0828. ♻️ chore: add GitHub actions badge
+0349. ✅ test: increase coverage on auth module
