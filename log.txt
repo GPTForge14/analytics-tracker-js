@@ -133,3 +133,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0803. ✅ test: mock database connection in test suite
 0729. 🔧 refactor: refactor quiz grading logic
+0828. ♻️ chore: add GitHub actions badge
