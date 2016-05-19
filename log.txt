@@ -143,3 +143,4 @@
 0150. 🎨 style: remove trailing whitespace
 0224. 🐛 fix: fix broken CSS in mobile view
 0598. 🔧 refactor: remove redundant code blocks
+0021. ✨ feat: support email verification
