@@ -144,3 +144,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0598. 🔧 refactor: remove redundant code blocks
 0021. ✨ feat: support email verification
+0615. 🐛 fix: correct typo in registration form
