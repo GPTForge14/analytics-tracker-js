@@ -145,3 +145,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0021. ✨ feat: support email verification
 0615. 🐛 fix: correct typo in registration form
+0558. ✨ feat: enable dark mode toggle
