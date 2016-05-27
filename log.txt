@@ -150,3 +150,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0824. 🚀 perf: lazy-load components
 0701. 🔧 refactor: clean up auth middleware
+0398. 🚀 perf: cache repeated calculations
