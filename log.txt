@@ -154,3 +154,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0023. 📚 docs: clarify environment setup
 0629. 🔧 refactor: organize models into subfolders
+0973. 🔧 refactor: organize models into subfolders
