@@ -155,3 +155,4 @@
 0023. 📚 docs: clarify environment setup
 0629. 🔧 refactor: organize models into subfolders
 0973. 🔧 refactor: organize models into subfolders
+0586. 🎨 style: remove trailing whitespace
