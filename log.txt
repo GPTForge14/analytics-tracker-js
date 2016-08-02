@@ -159,3 +159,4 @@
 0916. ♻️ chore: bump dependencies
 0083. 🎨 style: reformat files with black
 0007. 🎨 style: rename variables for clarity
+0785. ✨ feat: enable dark mode toggle
