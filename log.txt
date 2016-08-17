@@ -164,3 +164,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0409. 🚀 perf: lazy-load components
 0492. 🎨 style: remove trailing whitespace
+0892. ✅ test: add unit test for quiz service
