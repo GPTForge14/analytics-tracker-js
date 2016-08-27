@@ -166,3 +166,4 @@
 0492. 🎨 style: remove trailing whitespace
 0892. ✅ test: add unit test for quiz service
 0995. ✅ test: mock database connection in test suite
+0074. ♻️ chore: add GitHub actions badge
