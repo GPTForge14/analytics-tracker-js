@@ -173,3 +173,4 @@
 0178. ✨ feat: support email verification
 0093. ✅ test: add unit test for quiz service
 0551. 📚 docs: write FAQ section
+0979. 🎨 style: standardize quote style
