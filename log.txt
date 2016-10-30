@@ -185,3 +185,4 @@
 0553. 🐛 fix: correct typo in registration form
 0544. 🔧 refactor: organize models into subfolders
 0925. ✨ feat: add export to CSV option
+0131. 📚 docs: write FAQ section
