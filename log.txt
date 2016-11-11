@@ -187,3 +187,4 @@
 0925. ✨ feat: add export to CSV option
 0131. 📚 docs: write FAQ section
 0591. ♻️ chore: clean up unused files
+0196. ♻️ chore: bump dependencies
