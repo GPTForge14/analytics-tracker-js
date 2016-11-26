@@ -193,3 +193,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0602. 🔧 refactor: remove redundant code blocks
 0520. 🐛 fix: fix null pointer exception on login
+0900. 🐛 fix: handle 500 error in quiz API
