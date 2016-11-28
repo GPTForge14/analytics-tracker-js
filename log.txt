@@ -195,3 +195,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0900. 🐛 fix: handle 500 error in quiz API
 0025. 🚀 perf: optimize database query for quiz results
+0752. ✅ test: add integration test for /submit endpoint
