@@ -205,3 +205,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0382. 📚 docs: improve code comments in utils
 0118. 🚀 perf: reduce image load time
+0842. 🎨 style: remove trailing whitespace
