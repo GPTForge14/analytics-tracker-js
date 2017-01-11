@@ -209,3 +209,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0702. ✨ feat: add user authentication
 0719. 🎨 style: apply consistent indentation
+0450. 🐛 fix: fix broken CSS in mobile view
