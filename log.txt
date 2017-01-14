@@ -211,3 +211,4 @@
 0719. 🎨 style: apply consistent indentation
 0450. 🐛 fix: fix broken CSS in mobile view
 0669. ✨ feat: enable dark mode toggle
+0852. ✨ feat: enable dark mode toggle
