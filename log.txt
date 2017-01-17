@@ -212,3 +212,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0669. ✨ feat: enable dark mode toggle
 0852. ✨ feat: enable dark mode toggle
+0666. 🐛 fix: fix broken CSS in mobile view
