@@ -215,3 +215,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0749. ✨ feat: support email verification
 0119. 📚 docs: improve code comments in utils
+0476. 🚀 perf: reduce image load time
