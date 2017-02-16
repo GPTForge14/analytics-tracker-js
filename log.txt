@@ -217,3 +217,4 @@
 0119. 📚 docs: improve code comments in utils
 0476. 🚀 perf: reduce image load time
 0336. ✨ feat: add export to CSV option
+0786. ✨ feat: enable dark mode toggle
