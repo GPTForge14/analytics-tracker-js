@@ -221,3 +221,4 @@
 0610. 🚀 perf: lazy-load components
 0469. 🚀 perf: lazy-load components
 0264. 🚀 perf: optimize database query for quiz results
+0564. 📚 docs: clarify environment setup
