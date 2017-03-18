@@ -223,3 +223,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0564. 📚 docs: clarify environment setup
 0243. 🔧 refactor: clean up auth middleware
+0557. 🔧 refactor: clean up auth middleware
