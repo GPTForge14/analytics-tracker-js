@@ -238,3 +238,4 @@
 0077. ♻️ chore: rename env.example
 0957. 🐛 fix: fix null pointer exception on login
 0671. 🐛 fix: fix null pointer exception on login
+0899. 🚀 perf: cache repeated calculations
