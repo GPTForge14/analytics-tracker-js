@@ -237,3 +237,4 @@
 0778. 📚 docs: write FAQ section
 0077. ♻️ chore: rename env.example
 0957. 🐛 fix: fix null pointer exception on login
+0671. 🐛 fix: fix null pointer exception on login
