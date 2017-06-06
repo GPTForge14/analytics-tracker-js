@@ -241,3 +241,4 @@
 0899. 🚀 perf: cache repeated calculations
 0286. ✅ test: mock database connection in test suite
 0956. 📚 docs: clarify environment setup
+0521. 🎨 style: standardize quote style
