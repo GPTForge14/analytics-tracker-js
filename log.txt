@@ -245,3 +245,4 @@
 0238. 🎨 style: apply consistent indentation
 0445. 📚 docs: improve code comments in utils
 0977. 🔧 refactor: organize models into subfolders
+0383. 🐛 fix: fix broken CSS in mobile view
