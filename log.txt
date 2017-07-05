@@ -251,3 +251,4 @@
 0099. 🚀 perf: reduce image load time
 0091. ✨ feat: add user authentication
 0024. 📚 docs: write FAQ section
+0154. 🐛 fix: prevent crash on empty input
