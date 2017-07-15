@@ -254,3 +254,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0104. 🎨 style: apply consistent indentation
 0616. 🚀 perf: lazy-load components
+0387. ✨ feat: enable dark mode toggle
