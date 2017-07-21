@@ -258,3 +258,4 @@
 0446. 🎨 style: apply consistent indentation
 0267. 📚 docs: improve code comments in utils
 0770. ♻️ chore: rename env.example
+0526. ✨ feat: add user authentication
