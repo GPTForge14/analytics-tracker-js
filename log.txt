@@ -261,3 +261,4 @@
 0526. ✨ feat: add user authentication
 0571. 🔧 refactor: clean up auth middleware
 0857. 🎨 style: rename variables for clarity
+0246. ✅ test: add integration test for /submit endpoint
