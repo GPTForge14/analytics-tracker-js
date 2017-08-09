@@ -266,3 +266,4 @@
 0527. 🎨 style: remove trailing whitespace
 0836. 🚀 perf: optimize database query for quiz results
 0808. 🚀 perf: optimize database query for quiz results
+0205. 📚 docs: update README with setup steps
