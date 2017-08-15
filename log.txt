@@ -269,3 +269,4 @@
 0205. 📚 docs: update README with setup steps
 0736. 🐛 fix: fix null pointer exception on login
 0706. ✨ feat: support email verification
+0114. ♻️ chore: update .gitignore
