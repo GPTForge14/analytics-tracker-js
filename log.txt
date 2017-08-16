@@ -270,3 +270,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0706. ✨ feat: support email verification
 0114. ♻️ chore: update .gitignore
+0321. 🔧 refactor: organize models into subfolders
