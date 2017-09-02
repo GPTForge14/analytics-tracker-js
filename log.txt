@@ -276,3 +276,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0179. 🔧 refactor: split large controller into smaller functions
 0901. ✨ feat: add user authentication
+0997. ✅ test: increase coverage on auth module
