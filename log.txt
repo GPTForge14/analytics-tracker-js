@@ -278,3 +278,4 @@
 0901. ✨ feat: add user authentication
 0997. ✅ test: increase coverage on auth module
 0851. ✅ test: mock database connection in test suite
+0087. ✨ feat: add export to CSV option
