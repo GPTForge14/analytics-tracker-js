@@ -282,3 +282,4 @@
 0146. 🎨 style: apply consistent indentation
 0515. 🚀 perf: optimize database query for quiz results
 0219. ✅ test: increase coverage on auth module
+0600. 🐛 fix: prevent crash on empty input
