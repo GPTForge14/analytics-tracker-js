@@ -286,3 +286,4 @@
 0949. 📚 docs: write FAQ section
 0773. 📚 docs: document token refresh logic
 0457. 🐛 fix: handle 500 error in quiz API
+0735. ♻️ chore: add GitHub actions badge
