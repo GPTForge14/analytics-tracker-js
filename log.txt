@@ -289,3 +289,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0283. ♻️ chore: add GitHub actions badge
 0032. 🎨 style: apply consistent indentation
+0072. 🚀 perf: optimize database query for quiz results
