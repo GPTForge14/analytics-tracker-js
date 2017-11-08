@@ -290,3 +290,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0032. 🎨 style: apply consistent indentation
 0072. 🚀 perf: optimize database query for quiz results
+0968. 🎨 style: standardize quote style
