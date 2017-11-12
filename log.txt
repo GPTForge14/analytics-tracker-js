@@ -292,3 +292,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0968. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
+0549. ✨ feat: enable dark mode toggle
