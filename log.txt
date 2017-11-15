@@ -294,3 +294,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0549. ✨ feat: enable dark mode toggle
 0597. 🚀 perf: cache repeated calculations
+0408. ♻️ chore: add GitHub actions badge
