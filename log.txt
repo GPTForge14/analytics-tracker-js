@@ -304,3 +304,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0928. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0422. 🔧 refactor: organize models into subfolders
