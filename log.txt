@@ -305,3 +305,4 @@
 0928. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
 0422. 🔧 refactor: organize models into subfolders
+0453. 🎨 style: standardize quote style
