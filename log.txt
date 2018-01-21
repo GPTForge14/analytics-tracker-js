@@ -306,3 +306,4 @@
 0053. ✅ test: increase coverage on auth module
 0422. 🔧 refactor: organize models into subfolders
 0453. 🎨 style: standardize quote style
+0468. 📚 docs: update README with setup steps
