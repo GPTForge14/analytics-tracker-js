@@ -312,3 +312,4 @@
 0035. ✅ test: increase coverage on auth module
 0919. 🚀 perf: optimize database query for quiz results
 0082. 🔧 refactor: refactor quiz grading logic
+0331. 🐛 fix: fix broken CSS in mobile view
