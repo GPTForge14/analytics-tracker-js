@@ -315,3 +315,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0470. 🎨 style: remove trailing whitespace
 0502. 📚 docs: update README with setup steps
+0721. 🚀 perf: optimize database query for quiz results
