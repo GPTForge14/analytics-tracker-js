@@ -322,3 +322,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0514. 🐛 fix: fix broken CSS in mobile view
 0718. 🐛 fix: resolve issue with date parsing
+0896. 🚀 perf: reduce image load time
