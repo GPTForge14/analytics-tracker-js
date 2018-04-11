@@ -329,3 +329,4 @@
 0501. ✨ feat: add export to CSV option
 0424. ✨ feat: add user authentication
 0712. 🎨 style: apply consistent indentation
+0810. 🔧 refactor: refactor quiz grading logic
