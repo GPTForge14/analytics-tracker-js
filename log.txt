@@ -333,3 +333,4 @@
 0651. ✨ feat: enable dark mode toggle
 0819. 🚀 perf: reduce image load time
 0062. ♻️ chore: update .gitignore
+0280. ✅ test: add integration test for /submit endpoint
