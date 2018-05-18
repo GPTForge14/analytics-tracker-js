@@ -340,3 +340,4 @@
 0622. 🎨 style: apply consistent indentation
 0423. ✅ test: mock database connection in test suite
 0626. 🎨 style: standardize quote style
+0317. ✅ test: test user registration edge cases
