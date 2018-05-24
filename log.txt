@@ -341,3 +341,4 @@
 0423. ✅ test: mock database connection in test suite
 0626. 🎨 style: standardize quote style
 0317. ✅ test: test user registration edge cases
+0440. 📚 docs: update README with setup steps
