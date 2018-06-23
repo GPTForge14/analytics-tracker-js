@@ -347,3 +347,4 @@
 0875. ✅ test: increase coverage on auth module
 0341. 🚀 perf: lazy-load components
 0583. ✅ test: increase coverage on auth module
+0750. 🎨 style: apply consistent indentation
