@@ -349,3 +349,4 @@
 0583. ✅ test: increase coverage on auth module
 0750. 🎨 style: apply consistent indentation
 0366. 🔧 refactor: remove redundant code blocks
+0542. 🔧 refactor: organize models into subfolders
