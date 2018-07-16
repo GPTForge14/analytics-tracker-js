@@ -353,3 +353,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0639. 🐛 fix: correct typo in registration form
 0612. ✅ test: test user registration edge cases
+0090. ✅ test: increase coverage on auth module
