@@ -355,3 +355,4 @@
 0612. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
 0936. 🔧 refactor: organize models into subfolders
+0709. ♻️ chore: bump dependencies
