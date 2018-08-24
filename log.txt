@@ -364,3 +364,4 @@
 0904. ✨ feat: implement quiz timer feature
 0963. 🚀 perf: reduce image load time
 0003. ✅ test: increase coverage on auth module
+0110. 🐛 fix: prevent crash on empty input
