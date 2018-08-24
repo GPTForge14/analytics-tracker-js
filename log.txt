@@ -363,3 +363,4 @@
 0516. ✅ test: add unit test for quiz service
 0904. ✨ feat: implement quiz timer feature
 0963. 🚀 perf: reduce image load time
+0003. ✅ test: increase coverage on auth module
