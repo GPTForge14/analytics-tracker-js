@@ -367,3 +367,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0609. 🐛 fix: handle 500 error in quiz API
 0249. ✅ test: increase coverage on auth module
+0362. 📚 docs: add API usage examples
