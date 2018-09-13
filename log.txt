@@ -370,3 +370,4 @@
 0362. 📚 docs: add API usage examples
 0781. 🚀 perf: reduce image load time
 0714. 📚 docs: improve code comments in utils
+0282. 🔧 refactor: remove redundant code blocks
