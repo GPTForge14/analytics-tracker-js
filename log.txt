@@ -373,3 +373,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0577. ✨ feat: implement quiz timer feature
 0486. ✨ feat: add export to CSV option
+0456. 🚀 perf: optimize database query for quiz results
