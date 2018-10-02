@@ -375,3 +375,4 @@
 0486. ✨ feat: add export to CSV option
 0456. 🚀 perf: optimize database query for quiz results
 0227. ✅ test: test user registration edge cases
+0095. ✅ test: mock database connection in test suite
