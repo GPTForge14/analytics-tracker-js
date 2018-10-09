@@ -378,3 +378,4 @@
 0095. ✅ test: mock database connection in test suite
 0644. 🎨 style: apply consistent indentation
 0974. ✨ feat: add export to CSV option
+0295. 🎨 style: remove trailing whitespace
