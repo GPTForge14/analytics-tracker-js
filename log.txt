@@ -386,3 +386,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0320. 📚 docs: update README with setup steps
 0830. 🎨 style: apply consistent indentation
+0106. 🎨 style: reformat files with black
