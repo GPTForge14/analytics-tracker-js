@@ -387,3 +387,4 @@
 0320. 📚 docs: update README with setup steps
 0830. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
+0913. 🚀 perf: optimize database query for quiz results
