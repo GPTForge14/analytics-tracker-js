@@ -395,3 +395,4 @@
 0787. ♻️ chore: rename env.example
 0838. 🎨 style: standardize quote style
 0049. 🐛 fix: handle 500 error in quiz API
+0165. 🎨 style: remove trailing whitespace
