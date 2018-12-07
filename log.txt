@@ -397,3 +397,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0165. 🎨 style: remove trailing whitespace
 0284. ✨ feat: implement quiz timer feature
+0254. 🚀 perf: reduce image load time
