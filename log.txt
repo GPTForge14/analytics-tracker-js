@@ -401,3 +401,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0275. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
+0768. 🎨 style: remove trailing whitespace
