@@ -404,3 +404,4 @@
 0768. 🎨 style: remove trailing whitespace
 0206. 🐛 fix: handle 500 error in quiz API
 0076. 🎨 style: reformat files with black
+0189. 📚 docs: clarify environment setup
