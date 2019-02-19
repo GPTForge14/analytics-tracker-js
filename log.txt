@@ -414,3 +414,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0767. 🔧 refactor: remove redundant code blocks
 0595. ✨ feat: enable dark mode toggle
+0775. 🐛 fix: fix null pointer exception on login
