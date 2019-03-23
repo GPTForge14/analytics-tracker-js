@@ -422,3 +422,4 @@
 0037. 🐛 fix: correct typo in registration form
 0120. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
+0199. ✨ feat: create admin dashboard
