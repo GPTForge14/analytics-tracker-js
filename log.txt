@@ -423,3 +423,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0960. ✅ test: increase coverage on auth module
 0199. ✨ feat: create admin dashboard
+0839. 🎨 style: apply consistent indentation
