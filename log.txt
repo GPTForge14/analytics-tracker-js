@@ -424,3 +424,4 @@
 0960. ✅ test: increase coverage on auth module
 0199. ✨ feat: create admin dashboard
 0839. 🎨 style: apply consistent indentation
+0688. 🚀 perf: reduce image load time
