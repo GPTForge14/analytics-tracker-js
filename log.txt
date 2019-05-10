@@ -437,3 +437,4 @@
 0151. ✅ test: add unit test for quiz service
 0691. 🎨 style: rename variables for clarity
 0724. ✅ test: mock database connection in test suite
+0837. 🚀 perf: cache repeated calculations
