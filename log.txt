@@ -442,3 +442,4 @@
 0329. 📚 docs: update README with setup steps
 0753. 🔧 refactor: remove redundant code blocks
 0796. 🔧 refactor: refactor quiz grading logic
+0306. 🎨 style: apply consistent indentation
