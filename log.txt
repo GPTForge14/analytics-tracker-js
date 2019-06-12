@@ -447,3 +447,4 @@
 0069. 🎨 style: rename variables for clarity
 0170. ✅ test: increase coverage on auth module
 0475. 🔧 refactor: clean up auth middleware
+0363. 📚 docs: clarify environment setup
