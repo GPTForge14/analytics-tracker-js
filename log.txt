@@ -450,3 +450,4 @@
 0363. 📚 docs: clarify environment setup
 0541. 🐛 fix: correct typo in registration form
 0345. 📚 docs: document token refresh logic
+0507. 🔧 refactor: clean up auth middleware
