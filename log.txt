@@ -452,3 +452,4 @@
 0345. 📚 docs: document token refresh logic
 0507. 🔧 refactor: clean up auth middleware
 0508. ✅ test: add unit test for quiz service
+0872. 🎨 style: rename variables for clarity
