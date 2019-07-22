@@ -458,3 +458,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0410. 🎨 style: reformat files with black
 0307. ✨ feat: support email verification
+0539. 🔧 refactor: organize models into subfolders
