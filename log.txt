@@ -462,3 +462,4 @@
 0707. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
 0531. 🐛 fix: prevent crash on empty input
+0166. 🚀 perf: cache repeated calculations
