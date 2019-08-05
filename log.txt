@@ -464,3 +464,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0166. 🚀 perf: cache repeated calculations
 0882. 🚀 perf: optimize database query for quiz results
+0259. 🚀 perf: lazy-load components
