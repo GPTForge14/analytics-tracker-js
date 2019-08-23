@@ -468,3 +468,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0101. 📚 docs: clarify environment setup
 0879. 🎨 style: standardize quote style
+0459. 🔧 refactor: organize models into subfolders
