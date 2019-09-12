@@ -474,3 +474,4 @@
 0946. ✅ test: add unit test for quiz service
 0550. 🔧 refactor: split large controller into smaller functions
 0856. 🐛 fix: fix null pointer exception on login
+0265. 🎨 style: reformat files with black
