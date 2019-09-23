@@ -479,3 +479,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0057. 🚀 perf: optimize database query for quiz results
 0253. 📚 docs: update README with setup steps
+0823. ✨ feat: add user authentication
