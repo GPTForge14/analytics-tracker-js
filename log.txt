@@ -484,3 +484,4 @@
 0636. ✅ test: increase coverage on auth module
 0672. 🐛 fix: fix broken CSS in mobile view
 0121. ✨ feat: support email verification
+0893. 🐛 fix: handle 500 error in quiz API
