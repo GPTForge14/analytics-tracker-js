@@ -486,3 +486,4 @@
 0121. ✨ feat: support email verification
 0893. 🐛 fix: handle 500 error in quiz API
 0880. 🐛 fix: fix broken CSS in mobile view
+0375. 🐛 fix: handle 500 error in quiz API
