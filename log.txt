@@ -493,3 +493,4 @@
 0458. ✨ feat: create admin dashboard
 0244. ✨ feat: add export to CSV option
 0497. 🔧 refactor: refactor quiz grading logic
+0346. ✅ test: mock database connection in test suite
