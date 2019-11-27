@@ -494,3 +494,4 @@
 0244. ✨ feat: add export to CSV option
 0497. 🔧 refactor: refactor quiz grading logic
 0346. ✅ test: mock database connection in test suite
+0660. 🐛 fix: correct typo in registration form
