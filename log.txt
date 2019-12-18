@@ -498,3 +498,4 @@
 0726. ✨ feat: enable dark mode toggle
 0451. ✨ feat: support email verification
 0861. ♻️ chore: clean up unused files
+0923. ✨ feat: support email verification
