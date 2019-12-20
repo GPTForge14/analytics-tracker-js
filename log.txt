@@ -499,3 +499,4 @@
 0451. ✨ feat: support email verification
 0861. ♻️ chore: clean up unused files
 0923. ✨ feat: support email verification
+0418. ✅ test: mock database connection in test suite
