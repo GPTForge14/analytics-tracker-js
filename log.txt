@@ -502,3 +502,4 @@
 0418. ✅ test: mock database connection in test suite
 0984. ♻️ chore: clean up unused files
 0528. ♻️ chore: clean up unused files
+0890. 🔧 refactor: organize models into subfolders
