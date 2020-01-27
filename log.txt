@@ -510,3 +510,4 @@
 0054. ♻️ chore: update .gitignore
 0416. 🎨 style: rename variables for clarity
 0389. 📚 docs: improve code comments in utils
+0290. ✅ test: test user registration edge cases
