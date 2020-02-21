@@ -513,3 +513,4 @@
 0290. ✅ test: test user registration edge cases
 0323. 📚 docs: clarify environment setup
 0016. 🎨 style: apply consistent indentation
+0987. ✨ feat: create admin dashboard
