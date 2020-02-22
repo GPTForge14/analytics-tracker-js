@@ -514,3 +514,4 @@
 0323. 📚 docs: clarify environment setup
 0016. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
+0815. 🔧 refactor: split large controller into smaller functions
