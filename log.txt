@@ -516,3 +516,4 @@
 0987. ✨ feat: create admin dashboard
 0815. 🔧 refactor: split large controller into smaller functions
 0302. ✨ feat: implement quiz timer feature
+0522. 🐛 fix: handle 500 error in quiz API
