@@ -522,3 +522,4 @@
 0930. 🎨 style: apply consistent indentation
 0697. ♻️ chore: bump dependencies
 0479. 🐛 fix: fix null pointer exception on login
+0560. 🎨 style: rename variables for clarity
