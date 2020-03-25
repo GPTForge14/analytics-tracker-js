@@ -525,3 +525,4 @@
 0560. 🎨 style: rename variables for clarity
 0994. 🚀 perf: reduce image load time
 0599. ✅ test: test user registration edge cases
+0663. 🚀 perf: reduce image load time
