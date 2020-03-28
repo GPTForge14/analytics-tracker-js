@@ -527,3 +527,4 @@
 0599. ✅ test: test user registration edge cases
 0663. 🚀 perf: reduce image load time
 0269. ✅ test: test user registration edge cases
+0448. 🐛 fix: correct typo in registration form
