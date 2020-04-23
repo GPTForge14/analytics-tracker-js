@@ -529,3 +529,4 @@
 0269. ✅ test: test user registration edge cases
 0448. 🐛 fix: correct typo in registration form
 0772. 🐛 fix: fix null pointer exception on login
+0198. 📚 docs: clarify environment setup
