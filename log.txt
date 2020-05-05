@@ -533,3 +533,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0853. 🔧 refactor: refactor quiz grading logic
 0867. 🔧 refactor: refactor quiz grading logic
+0954. 🚀 perf: cache repeated calculations
