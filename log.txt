@@ -538,3 +538,4 @@
 0969. ✨ feat: create admin dashboard
 0685. ✅ test: test user registration edge cases
 0506. 🐛 fix: handle 500 error in quiz API
+0764. ✨ feat: add user authentication
