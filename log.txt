@@ -540,3 +540,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0764. ✨ feat: add user authentication
 0555. ✨ feat: create admin dashboard
+0958. 🐛 fix: prevent crash on empty input
