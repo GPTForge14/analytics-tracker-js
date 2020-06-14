@@ -542,3 +542,4 @@
 0555. ✨ feat: create admin dashboard
 0958. 🐛 fix: prevent crash on empty input
 0966. 📚 docs: improve code comments in utils
+0988. 🐛 fix: fix broken CSS in mobile view
