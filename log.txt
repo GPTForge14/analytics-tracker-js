@@ -546,3 +546,4 @@
 0052. 🎨 style: standardize quote style
 0309. 🔧 refactor: refactor quiz grading logic
 0834. ✅ test: increase coverage on auth module
+0624. ✅ test: add unit test for quiz service
