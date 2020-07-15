@@ -548,3 +548,4 @@
 0834. ✅ test: increase coverage on auth module
 0624. ✅ test: add unit test for quiz service
 0898. 🐛 fix: fix broken CSS in mobile view
+0679. ♻️ chore: bump dependencies
