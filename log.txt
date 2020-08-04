@@ -551,3 +551,4 @@
 0679. ♻️ chore: bump dependencies
 0754. 🐛 fix: handle 500 error in quiz API
 0185. 📚 docs: write FAQ section
+0081. 🐛 fix: fix null pointer exception on login
