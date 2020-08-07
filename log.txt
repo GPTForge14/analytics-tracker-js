@@ -554,3 +554,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0094. 📚 docs: document token refresh logic
 0554. 📚 docs: improve code comments in utils
+0876. ♻️ chore: rename env.example
