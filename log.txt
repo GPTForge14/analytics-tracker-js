@@ -558,3 +558,4 @@
 0138. 🎨 style: rename variables for clarity
 0499. 🎨 style: reformat files with black
 0461. ✨ feat: add user authentication
+0248. 🐛 fix: handle 500 error in quiz API
