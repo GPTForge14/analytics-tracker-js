@@ -560,3 +560,4 @@
 0461. ✨ feat: add user authentication
 0248. 🐛 fix: handle 500 error in quiz API
 0489. 🔧 refactor: organize models into subfolders
+0135. ✅ test: test user registration edge cases
