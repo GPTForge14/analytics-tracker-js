@@ -566,3 +566,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0570. 🎨 style: apply consistent indentation
 0903. ✅ test: mock database connection in test suite
+0411. ✅ test: add unit test for quiz service
