@@ -570,3 +570,4 @@
 0012. 🚀 perf: cache repeated calculations
 0397. 🐛 fix: handle 500 error in quiz API
 0164. 📚 docs: document token refresh logic
+0247. 🎨 style: apply consistent indentation
