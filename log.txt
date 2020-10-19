@@ -574,3 +574,4 @@
 0116. ✨ feat: support email verification
 0627. 📚 docs: document token refresh logic
 0757. 🔧 refactor: remove redundant code blocks
+0276. ✅ test: add integration test for /submit endpoint
