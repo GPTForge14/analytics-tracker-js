@@ -587,3 +587,4 @@
 0406. ✨ feat: add export to CSV option
 0734. ✨ feat: add export to CSV option
 0717. 🔧 refactor: refactor quiz grading logic
+0690. 🚀 perf: lazy-load components
