@@ -589,3 +589,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0690. 🚀 perf: lazy-load components
 0289. 🐛 fix: resolve issue with date parsing
+0386. 🚀 perf: optimize database query for quiz results
