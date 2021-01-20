@@ -591,3 +591,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0386. 🚀 perf: optimize database query for quiz results
 0427. ✅ test: mock database connection in test suite
+0485. 📚 docs: update README with setup steps
