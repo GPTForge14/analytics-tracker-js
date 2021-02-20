@@ -600,3 +600,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0547. 📚 docs: write FAQ section
 0484. 🐛 fix: handle 500 error in quiz API
+0561. 📚 docs: write FAQ section
