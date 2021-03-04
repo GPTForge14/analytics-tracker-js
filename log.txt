@@ -601,3 +601,4 @@
 0547. 📚 docs: write FAQ section
 0484. 🐛 fix: handle 500 error in quiz API
 0561. 📚 docs: write FAQ section
+0985. 📚 docs: document token refresh logic
