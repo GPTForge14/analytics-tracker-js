@@ -603,3 +603,4 @@
 0561. 📚 docs: write FAQ section
 0985. 📚 docs: document token refresh logic
 0789. ✨ feat: create admin dashboard
+0864. 🐛 fix: correct typo in registration form
