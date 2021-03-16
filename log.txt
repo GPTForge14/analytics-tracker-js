@@ -605,3 +605,4 @@
 0789. ✨ feat: create admin dashboard
 0864. 🐛 fix: correct typo in registration form
 0160. ♻️ chore: bump dependencies
+0817. 🔧 refactor: remove redundant code blocks
