@@ -608,3 +608,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0755. 🚀 perf: cache repeated calculations
 0992. ♻️ chore: clean up unused files
+0887. 📚 docs: add API usage examples
