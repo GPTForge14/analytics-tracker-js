@@ -610,3 +610,4 @@
 0992. ♻️ chore: clean up unused files
 0887. 📚 docs: add API usage examples
 0915. 🚀 perf: cache repeated calculations
+0578. ✅ test: add integration test for /submit endpoint
