@@ -619,3 +619,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0471. ✨ feat: support email verification
 0495. 🔧 refactor: remove redundant code blocks
+0678. ✨ feat: add user authentication
