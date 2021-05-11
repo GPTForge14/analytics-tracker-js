@@ -625,3 +625,4 @@
 0606. 📚 docs: improve code comments in utils
 0045. 🎨 style: apply consistent indentation
 0454. ♻️ chore: bump dependencies
+0535. 📚 docs: write FAQ section
