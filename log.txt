@@ -626,3 +626,4 @@
 0045. 🎨 style: apply consistent indentation
 0454. ♻️ chore: bump dependencies
 0535. 📚 docs: write FAQ section
+0390. 🎨 style: standardize quote style
