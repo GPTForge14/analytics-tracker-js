@@ -630,3 +630,4 @@
 0404. 📚 docs: improve code comments in utils
 0388. 🎨 style: reformat files with black
 0503. ♻️ chore: rename env.example
+0937. 🐛 fix: handle 500 error in quiz API
