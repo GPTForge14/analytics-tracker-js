@@ -635,3 +635,4 @@
 0263. 📚 docs: add API usage examples
 0113. ✨ feat: add user authentication
 0177. 📚 docs: add API usage examples
+0144. ✅ test: increase coverage on auth module
