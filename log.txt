@@ -640,3 +640,4 @@
 0895. ✨ feat: support email verification
 0665. ♻️ chore: update .gitignore
 0692. ✅ test: add integration test for /submit endpoint
+0920. 🔧 refactor: organize models into subfolders
