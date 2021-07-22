@@ -645,3 +645,4 @@
 0360. ✨ feat: add export to CSV option
 0566. 📚 docs: write FAQ section
 0364. 🐛 fix: resolve issue with date parsing
+0419. 🎨 style: remove trailing whitespace
