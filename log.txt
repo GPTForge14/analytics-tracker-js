@@ -659,3 +659,4 @@
 0180. ✨ feat: add export to CSV option
 0060. ♻️ chore: clean up unused files
 0699. 🎨 style: standardize quote style
+0670. ✨ feat: add export to CSV option
