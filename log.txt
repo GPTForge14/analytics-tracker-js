@@ -662,3 +662,4 @@
 0670. ✨ feat: add export to CSV option
 0333. 🚀 perf: cache repeated calculations
 0257. 📚 docs: clarify environment setup
+0250. 📚 docs: update README with setup steps
