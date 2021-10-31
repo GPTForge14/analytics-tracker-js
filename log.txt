@@ -666,3 +666,4 @@
 0463. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
 0183. 🔧 refactor: split large controller into smaller functions
+0849. 🐛 fix: correct typo in registration form
