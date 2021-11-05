@@ -667,3 +667,4 @@
 0873. 🚀 perf: cache repeated calculations
 0183. 🔧 refactor: split large controller into smaller functions
 0849. 🐛 fix: correct typo in registration form
+0914. ✅ test: test user registration edge cases
