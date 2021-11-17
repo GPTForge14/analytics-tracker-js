@@ -670,3 +670,4 @@
 0914. ✅ test: test user registration edge cases
 0312. ✨ feat: add user authentication
 0576. ♻️ chore: update .gitignore
+0653. 🐛 fix: prevent crash on empty input
