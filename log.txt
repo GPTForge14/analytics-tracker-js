@@ -672,3 +672,4 @@
 0576. ♻️ chore: update .gitignore
 0653. 🐛 fix: prevent crash on empty input
 0791. 🔧 refactor: clean up auth middleware
+0711. 🐛 fix: fix broken CSS in mobile view
