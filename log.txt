@@ -674,3 +674,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0711. 🐛 fix: fix broken CSS in mobile view
 0517. ✅ test: mock database connection in test suite
+0347. ♻️ chore: update .gitignore
