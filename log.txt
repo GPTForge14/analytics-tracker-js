@@ -677,3 +677,4 @@
 0347. ♻️ chore: update .gitignore
 0567. 📚 docs: add API usage examples
 0327. 🔧 refactor: split large controller into smaller functions
+0751. 🐛 fix: handle 500 error in quiz API
