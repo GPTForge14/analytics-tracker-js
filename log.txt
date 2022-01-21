@@ -682,3 +682,4 @@
 0355. 🚀 perf: optimize database query for quiz results
 0694. 🎨 style: rename variables for clarity
 0266. 🔧 refactor: remove redundant code blocks
+0918. ✨ feat: enable dark mode toggle
