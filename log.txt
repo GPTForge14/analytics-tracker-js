@@ -687,3 +687,4 @@
 0826. 📚 docs: clarify environment setup
 0161. ✨ feat: create admin dashboard
 0115. 🚀 perf: reduce image load time
+0377. ✨ feat: add user authentication
