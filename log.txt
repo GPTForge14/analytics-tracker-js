@@ -692,3 +692,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0429. ✨ feat: add user authentication
 0089. 🔧 refactor: remove redundant code blocks
+0010. ✨ feat: add user authentication
