@@ -702,3 +702,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0354. 📚 docs: add API usage examples
 0066. 🔧 refactor: clean up auth middleware
+0843. 📚 docs: document token refresh logic
