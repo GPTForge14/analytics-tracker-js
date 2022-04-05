@@ -705,3 +705,4 @@
 0843. 📚 docs: document token refresh logic
 0368. 🚀 perf: lazy-load components
 0271. ✅ test: add unit test for quiz service
+0944. ✨ feat: add user authentication
