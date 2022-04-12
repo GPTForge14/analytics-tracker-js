@@ -708,3 +708,4 @@
 0944. ✨ feat: add user authentication
 0681. ✨ feat: create admin dashboard
 0292. 📚 docs: clarify environment setup
+0040. 🔧 refactor: clean up auth middleware
