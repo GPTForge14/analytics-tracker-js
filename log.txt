@@ -713,3 +713,4 @@
 0384. 📚 docs: clarify environment setup
 0143. ✨ feat: implement quiz timer feature
 0510. 🎨 style: rename variables for clarity
+0650. ✅ test: add unit test for quiz service
