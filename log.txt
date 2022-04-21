@@ -714,3 +714,4 @@
 0143. ✨ feat: implement quiz timer feature
 0510. 🎨 style: rename variables for clarity
 0650. ✅ test: add unit test for quiz service
+0488. ♻️ chore: add GitHub actions badge
