@@ -716,3 +716,4 @@
 0650. ✅ test: add unit test for quiz service
 0488. ♻️ chore: add GitHub actions badge
 0026. 🔧 refactor: clean up auth middleware
+0208. 🔧 refactor: clean up auth middleware
