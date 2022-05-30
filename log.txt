@@ -723,3 +723,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0732. ♻️ chore: add GitHub actions badge
 0952. 🔧 refactor: split large controller into smaller functions
+0630. 🚀 perf: lazy-load components
