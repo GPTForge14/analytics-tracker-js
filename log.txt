@@ -736,3 +736,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0868. ✅ test: add unit test for quiz service
 0816. 🔧 refactor: organize models into subfolders
+0152. ✨ feat: add user authentication
