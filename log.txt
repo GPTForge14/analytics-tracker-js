@@ -738,3 +738,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0152. ✨ feat: add user authentication
 0326. 🚀 perf: cache repeated calculations
+0942. ✅ test: increase coverage on auth module
