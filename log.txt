@@ -742,3 +742,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0727. ♻️ chore: add GitHub actions badge
 0187. ✨ feat: support email verification
+0373. 📚 docs: document token refresh logic
