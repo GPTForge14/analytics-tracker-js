@@ -744,3 +744,4 @@
 0187. ✨ feat: support email verification
 0373. 📚 docs: document token refresh logic
 0403. ✅ test: mock database connection in test suite
+0676. 🐛 fix: prevent crash on empty input
