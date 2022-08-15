@@ -745,3 +745,4 @@
 0373. 📚 docs: document token refresh logic
 0403. ✅ test: mock database connection in test suite
 0676. 🐛 fix: prevent crash on empty input
+0646. ✅ test: test user registration edge cases
