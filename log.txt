@@ -746,3 +746,4 @@
 0403. ✅ test: mock database connection in test suite
 0676. 🐛 fix: prevent crash on empty input
 0646. ✅ test: test user registration edge cases
+0430. 🐛 fix: fix null pointer exception on login
