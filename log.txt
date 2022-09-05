@@ -749,3 +749,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0431. 🎨 style: reformat files with black
 0543. ✨ feat: support email verification
+0818. 🔧 refactor: remove redundant code blocks
