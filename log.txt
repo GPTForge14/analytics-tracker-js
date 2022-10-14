@@ -760,3 +760,4 @@
 0195. 📚 docs: clarify environment setup
 0569. 📚 docs: document token refresh logic
 0337. 📚 docs: document token refresh logic
+0647. 🐛 fix: prevent crash on empty input
