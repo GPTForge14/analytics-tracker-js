@@ -761,3 +761,4 @@
 0569. 📚 docs: document token refresh logic
 0337. 📚 docs: document token refresh logic
 0647. 🐛 fix: prevent crash on empty input
+0344. ♻️ chore: add GitHub actions badge
