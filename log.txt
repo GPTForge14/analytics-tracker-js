@@ -764,3 +764,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0943. 🎨 style: rename variables for clarity
 0230. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
