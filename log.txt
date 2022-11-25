@@ -769,3 +769,4 @@
 0013. ✅ test: increase coverage on auth module
 0228. 🔧 refactor: remove redundant code blocks
 0330. ✅ test: test user registration edge cases
+0677. 📚 docs: add API usage examples
