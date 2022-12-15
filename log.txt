@@ -776,3 +776,4 @@
 0085. ✨ feat: support email verification
 0529. 📚 docs: write FAQ section
 0210. 🎨 style: apply consistent indentation
+0827. 🚀 perf: optimize database query for quiz results
