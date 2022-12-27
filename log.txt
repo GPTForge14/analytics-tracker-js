@@ -781,3 +781,4 @@
 0745. ✅ test: add unit test for quiz service
 0588. 🔧 refactor: organize models into subfolders
 0575. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
