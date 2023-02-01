@@ -788,3 +788,4 @@
 0051. ✨ feat: enable dark mode toggle
 0273. 🚀 perf: reduce image load time
 0303. 🎨 style: rename variables for clarity
+0462. ♻️ chore: update .gitignore
