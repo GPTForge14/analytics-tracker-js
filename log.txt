@@ -791,3 +791,4 @@
 0462. ♻️ chore: update .gitignore
 0279. ✨ feat: support email verification
 0855. 🎨 style: reformat files with black
+0525. ✅ test: mock database connection in test suite
