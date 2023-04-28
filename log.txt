@@ -804,3 +804,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0594. 🎨 style: reformat files with black
 0108. 🎨 style: remove trailing whitespace
+0496. ✅ test: add integration test for /submit endpoint
