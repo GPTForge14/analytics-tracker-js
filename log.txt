@@ -811,3 +811,4 @@
 0715. ✨ feat: create admin dashboard
 0376. 🎨 style: apply consistent indentation
 0059. ♻️ chore: bump dependencies
+0343. 🚀 perf: optimize database query for quiz results
