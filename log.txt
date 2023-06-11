@@ -816,3 +816,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0582. ✨ feat: add export to CSV option
 0385. ♻️ chore: clean up unused files
+0305. ✨ feat: enable dark mode toggle
