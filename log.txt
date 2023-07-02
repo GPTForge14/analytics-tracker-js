@@ -817,3 +817,4 @@
 0582. ✨ feat: add export to CSV option
 0385. ♻️ chore: clean up unused files
 0305. ✨ feat: enable dark mode toggle
+0738. 🐛 fix: prevent crash on empty input
