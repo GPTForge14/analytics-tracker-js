@@ -821,3 +821,4 @@
 0490. ✨ feat: create admin dashboard
 0927. ♻️ chore: bump dependencies
 0722. 📚 docs: add API usage examples
+0225. 🚀 perf: reduce image load time
