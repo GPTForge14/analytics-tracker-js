@@ -826,3 +826,4 @@
 0784. ♻️ chore: clean up unused files
 0705. 🔧 refactor: refactor quiz grading logic
 0181. ♻️ chore: add GitHub actions badge
+0393. 🚀 perf: lazy-load components
