@@ -835,3 +835,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0680. ♻️ chore: add GitHub actions badge
 0607. 🐛 fix: prevent crash on empty input
+0866. 📚 docs: add API usage examples
