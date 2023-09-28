@@ -837,3 +837,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0866. 📚 docs: add API usage examples
 0226. 🚀 perf: lazy-load components
+0766. 🎨 style: reformat files with black
