@@ -838,3 +838,4 @@
 0866. 📚 docs: add API usage examples
 0226. 🚀 perf: lazy-load components
 0766. 🎨 style: reformat files with black
+0611. ✅ test: test user registration edge cases
