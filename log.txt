@@ -842,3 +842,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0537. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
+0027. 📚 docs: clarify environment setup
