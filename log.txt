@@ -844,3 +844,4 @@
 0487. 🎨 style: reformat files with black
 0027. 📚 docs: clarify environment setup
 0862. ♻️ chore: bump dependencies
+0460. 📚 docs: write FAQ section
