@@ -845,3 +845,4 @@
 0027. 📚 docs: clarify environment setup
 0862. ♻️ chore: bump dependencies
 0460. 📚 docs: write FAQ section
+0659. 📚 docs: add API usage examples
