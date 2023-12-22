@@ -855,3 +855,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0980. 🎨 style: reformat files with black
 0296. 🔧 refactor: organize models into subfolders
+0203. 🚀 perf: lazy-load components
