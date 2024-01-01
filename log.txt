@@ -856,3 +856,4 @@
 0980. 🎨 style: reformat files with black
 0296. 🔧 refactor: organize models into subfolders
 0203. 🚀 perf: lazy-load components
+0231. 🔧 refactor: clean up auth middleware
