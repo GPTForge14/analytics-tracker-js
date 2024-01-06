@@ -858,3 +858,4 @@
 0203. 🚀 perf: lazy-load components
 0231. 🔧 refactor: clean up auth middleware
 0298. ♻️ chore: update .gitignore
+0779. 🔧 refactor: organize models into subfolders
