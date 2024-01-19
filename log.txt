@@ -864,3 +864,4 @@
 0064. 📚 docs: clarify environment setup
 0863. 🐛 fix: correct typo in registration form
 0124. 🎨 style: reformat files with black
+0675. 🔧 refactor: organize models into subfolders
