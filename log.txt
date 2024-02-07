@@ -866,3 +866,4 @@
 0124. 🎨 style: reformat files with black
 0675. 🔧 refactor: organize models into subfolders
 0274. 🔧 refactor: refactor quiz grading logic
+0167. 🚀 perf: reduce image load time
