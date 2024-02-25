@@ -868,3 +868,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0167. 🚀 perf: reduce image load time
 0619. ✨ feat: create admin dashboard
+0140. 🐛 fix: handle 500 error in quiz API
