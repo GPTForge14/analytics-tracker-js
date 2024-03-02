@@ -875,3 +875,4 @@
 0128. ♻️ chore: rename env.example
 0352. ✨ feat: add export to CSV option
 0141. 📚 docs: document token refresh logic
+0989. 📚 docs: write FAQ section
