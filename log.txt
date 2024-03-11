@@ -877,3 +877,4 @@
 0141. 📚 docs: document token refresh logic
 0989. 📚 docs: write FAQ section
 0103. 🔧 refactor: remove redundant code blocks
+0171. 🐛 fix: fix broken CSS in mobile view
