@@ -878,3 +878,4 @@
 0989. 📚 docs: write FAQ section
 0103. 🔧 refactor: remove redundant code blocks
 0171. 🐛 fix: fix broken CSS in mobile view
+0370. 🚀 perf: reduce image load time
