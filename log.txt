@@ -882,3 +882,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0556. ✨ feat: support email verification
 0002. 🚀 perf: cache repeated calculations
+0854. ♻️ chore: rename env.example
