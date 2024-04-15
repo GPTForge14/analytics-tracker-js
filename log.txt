@@ -887,3 +887,4 @@
 0620. ✨ feat: implement quiz timer feature
 0504. 📚 docs: document token refresh logic
 0648. ♻️ chore: bump dependencies
+0229. 🚀 perf: optimize database query for quiz results
