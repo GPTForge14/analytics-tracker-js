@@ -891,3 +891,4 @@
 0061. ✨ feat: create admin dashboard
 0950. 🎨 style: reformat files with black
 0572. ✨ feat: add user authentication
+0574. ✨ feat: enable dark mode toggle
