@@ -890,3 +890,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0061. ✨ feat: create admin dashboard
 0950. 🎨 style: reformat files with black
+0572. ✨ feat: add user authentication
