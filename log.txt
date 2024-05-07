@@ -894,3 +894,4 @@
 0574. ✨ feat: enable dark mode toggle
 0632. 🎨 style: remove trailing whitespace
 0455. ♻️ chore: clean up unused files
+0086. 🐛 fix: correct typo in registration form
