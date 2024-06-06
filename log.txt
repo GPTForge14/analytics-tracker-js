@@ -899,3 +899,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0806. 📚 docs: improve code comments in utils
 0614. 🚀 perf: reduce image load time
+0380. 🐛 fix: fix null pointer exception on login
