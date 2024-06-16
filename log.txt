@@ -901,3 +901,4 @@
 0614. 🚀 perf: reduce image load time
 0380. 🐛 fix: fix null pointer exception on login
 0641. 📚 docs: write FAQ section
+0662. ♻️ chore: clean up unused files
