@@ -902,3 +902,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0641. 📚 docs: write FAQ section
 0662. ♻️ chore: clean up unused files
+0258. 🐛 fix: prevent crash on empty input
