@@ -904,3 +904,4 @@
 0662. ♻️ chore: clean up unused files
 0258. 🐛 fix: prevent crash on empty input
 0759. 🔧 refactor: organize models into subfolders
+0959. 🐛 fix: fix null pointer exception on login
