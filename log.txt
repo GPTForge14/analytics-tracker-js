@@ -908,3 +908,4 @@
 0536. ✨ feat: add user authentication
 0519. 📚 docs: document token refresh logic
 0063. 🐛 fix: handle 500 error in quiz API
+0478. 🐛 fix: resolve issue with date parsing
