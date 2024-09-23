@@ -918,3 +918,4 @@
 0122. ✨ feat: support email verification
 0405. ✅ test: mock database connection in test suite
 0441. 📚 docs: add API usage examples
+0682. ♻️ chore: rename env.example
