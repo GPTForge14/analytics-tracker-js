@@ -919,3 +919,4 @@
 0405. ✅ test: mock database connection in test suite
 0441. 📚 docs: add API usage examples
 0682. ♻️ chore: rename env.example
+0518. ✨ feat: support email verification
