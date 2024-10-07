@@ -924,3 +924,4 @@
 0886. ♻️ chore: clean up unused files
 0071. 🔧 refactor: refactor quiz grading logic
 0294. 🐛 fix: prevent crash on empty input
+0762. 🚀 perf: lazy-load components
