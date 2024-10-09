@@ -926,3 +926,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0762. 🚀 perf: lazy-load components
 0159. 🚀 perf: lazy-load components
+0277. 🎨 style: standardize quote style
