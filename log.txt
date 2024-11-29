@@ -935,3 +935,4 @@
 0811. 🎨 style: reformat files with black
 0546. 🐛 fix: fix null pointer exception on login
 0213. ✅ test: add integration test for /submit endpoint
+0270. ♻️ chore: rename env.example
