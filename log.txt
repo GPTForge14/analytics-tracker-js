@@ -938,3 +938,4 @@
 0270. ♻️ chore: rename env.example
 0300. ✨ feat: add export to CSV option
 0908. ♻️ chore: bump dependencies
+0548. 📚 docs: write FAQ section
