@@ -939,3 +939,4 @@
 0300. ✨ feat: add export to CSV option
 0908. ♻️ chore: bump dependencies
 0548. 📚 docs: write FAQ section
+0235. 🐛 fix: fix null pointer exception on login
