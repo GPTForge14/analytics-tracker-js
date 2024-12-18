@@ -940,3 +940,4 @@
 0908. ♻️ chore: bump dependencies
 0548. 📚 docs: write FAQ section
 0235. 🐛 fix: fix null pointer exception on login
+0005. ✅ test: add unit test for quiz service
