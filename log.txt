@@ -944,3 +944,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0465. 🎨 style: rename variables for clarity
 0433. 🐛 fix: prevent crash on empty input
+0042. 📚 docs: document token refresh logic
