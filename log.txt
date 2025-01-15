@@ -946,3 +946,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0042. 📚 docs: document token refresh logic
 0482. ✨ feat: add export to CSV option
+0763. 🔧 refactor: organize models into subfolders
