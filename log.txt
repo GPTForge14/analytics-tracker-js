@@ -948,3 +948,4 @@
 0482. ✨ feat: add export to CSV option
 0763. 🔧 refactor: organize models into subfolders
 0686. 🎨 style: standardize quote style
+0924. ✅ test: mock database connection in test suite
