@@ -953,3 +953,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0028. 🎨 style: standardize quote style
 0684. 🚀 perf: reduce image load time
+0579. 📚 docs: clarify environment setup
