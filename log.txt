@@ -962,3 +962,4 @@
 0361. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
 0703. 🔧 refactor: clean up auth middleware
+0156. 🎨 style: rename variables for clarity
