@@ -966,3 +966,4 @@
 0172. 📚 docs: add API usage examples
 0472. 🐛 fix: fix null pointer exception on login
 0498. ✅ test: mock database connection in test suite
+0971. 🎨 style: standardize quote style
