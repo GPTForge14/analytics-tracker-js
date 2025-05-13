@@ -976,3 +976,4 @@
 0654. ✨ feat: create admin dashboard
 0760. 🐛 fix: resolve issue with date parsing
 0033. 🎨 style: apply consistent indentation
+0117. ✅ test: increase coverage on auth module
