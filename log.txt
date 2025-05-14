@@ -977,3 +977,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0033. 🎨 style: apply consistent indentation
 0117. ✅ test: increase coverage on auth module
+0674. 🔧 refactor: split large controller into smaller functions
