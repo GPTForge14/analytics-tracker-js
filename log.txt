@@ -978,3 +978,4 @@
 0033. 🎨 style: apply consistent indentation
 0117. ✅ test: increase coverage on auth module
 0674. 🔧 refactor: split large controller into smaller functions
+0281. ✨ feat: support email verification
