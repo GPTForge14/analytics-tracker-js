@@ -984,3 +984,4 @@
 0716. ✨ feat: implement quiz timer feature
 0155. ✨ feat: create admin dashboard
 0212. 🎨 style: standardize quote style
+0865. ♻️ chore: add GitHub actions badge
