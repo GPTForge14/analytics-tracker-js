@@ -1,6 +1,6 @@
 {
   "name": "alist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "开箱即用列表",
   "main": "index.js",
   "scripts": {
